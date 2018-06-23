@@ -62,3 +62,8 @@ target/
 .ipynb_checkpoints
 
 node_modules/
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
