@@ -1,7 +1,10 @@
 ## Q1. 得意なプログラミング言語 Favorite Programming Language
 あなたの得意なプログラミング言語を記載してみてください。
-Python,C,C++
+
+- Python,C,C++
 
 ## Q2. コードの説明 Code Explanation
 あなたのコードがどのように動作するのか、簡潔に説明してください。
-Write a brief explanation about how your code works here
+
+- 文字列を入力引数として受け取り、問題指定の文字列となるように標準出力する
+- シンプルに`print`で文字列を組み合わせて出力
